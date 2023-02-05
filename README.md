@@ -1,6 +1,7 @@
 # Logistic-Regression
 
 In this project, you will implement logistic regression and apply it to two different datasets.
+Start with "ex2.mlx" file.
 Files needed for this project - 
 
 1. ex2.mlx - MATLAB Live Script that steps you through the exercise
